@@ -1,1 +1,1 @@
-# framework
+Built with the Divhunt Framework – non-commercial use only. For commercial use, contact dejan@divhunt.com.
